@@ -8,5 +8,9 @@
 <h2>Sample Input</h2>
 <p>4000<br>100</p>
 <h2>Sample Output</h2>
-<p>Pesos</p>
-### Some bugs in my code open to your contribution.
+<p>Pesos</p><br>
+<b>
+<i>
+ ***     Some bugs in my code open to your contribution.   ***
+</i>
+</b>
