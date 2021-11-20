@@ -1,6 +1,6 @@
 ### You are in a hot store in Argentina! The prices are listed in US Dollars and Argentinian Pesos. You have both, but you want to make sure you pay the lower price! Do you pay in Dollars or Pesos? The exchange rate is 2 cents for every Peso. 
 <h2>Task</h2>
-<p>Create a program that takes two prices and tells you which one is loer after conversion.</p>
+<p>Create a program that takes two prices and tells you which one is lower after conversion.</p>
 <h2>Input Format</h2>
 <p>Two integer values, the first one is the price in Pesos and the second one is the price in Dollars.</p>
 <h2>Output Format</h2>

@@ -7,10 +7,10 @@ int main(){
     scanf("%d",&pesos);
     printf("enter value for Dollar: \n");
     scanf("%d",&dollar);
-    rate = (CENT_RATE * pesos);
-    int result = ceil(rate / dollar);
-    if(result > dollar)
-    printf("Dollars");
-    else
+   //convert dollar to pesos
+    rate = (50 * dollar);
+    if(rate > pesos)
     printf("Pesos");
+    else
+    printf("Dollars");
 }
