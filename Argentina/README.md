@@ -9,8 +9,3 @@
 <p>4000<br>100</p>
 <h2>Sample Output</h2>
 <p>Pesos</p><br>
-<b>
-<i>
- ***     Some bugs in my code open to your contribution.   ***
-</i>
-</b>
