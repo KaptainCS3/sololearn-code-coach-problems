@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main(void){
-    int sbl, pop;
+    int siblings, popsicles;
     printf("Enter number of siblings: \n");
-    scanf("%d", &sbl);
+    scanf("%d", &siblings);
     printf("Enter number of Popsicles: \n");
-    scanf("%d", &pop);
-    if(pop % sbl =! 0)
+    scanf("%d", &popsicles);
+    if(popsicles % siblings != 0)
     printf("eat them yourself\n");
     else
     printf("give away\n");
