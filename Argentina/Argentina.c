@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 #define CENT_RATE 2
 int main(){
     int pesos, dollar, rate;
