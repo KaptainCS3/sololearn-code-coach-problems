@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+// done by Leonard Appelgryn(KAPTAINCS3)
 int main(){
     int houses, out_put;
     float res = 2 * 100;
