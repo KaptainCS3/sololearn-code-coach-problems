@@ -1,4 +1,5 @@
 #include<stdio.h>
+// done by Leonard Appelgryn(KAPTAINCS3)
 int main(void){
     int siblings, popsicles;
     printf("Enter number of siblings: \n");
