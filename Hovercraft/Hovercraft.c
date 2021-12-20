@@ -1,4 +1,5 @@
 #include<stdio.h> 
+// done by Leonard Appelgryn(KAPTAINCS3)
 #define amt_in 21000000
 int main(void){
     int   customer, new_amt;
