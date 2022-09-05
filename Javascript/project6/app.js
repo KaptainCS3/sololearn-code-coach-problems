@@ -6,7 +6,6 @@ class Add {
         return el[0].replace("", "$") + el.slice(1);
       });
       const data = mapData.toString();
-      console.log(`${data}$`);
     };
   }
 }
