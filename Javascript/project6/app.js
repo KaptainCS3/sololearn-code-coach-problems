@@ -3,7 +3,8 @@ class Add {
     this.words = words;
     this.print = function print() {
       const mapData = words.map((el) => {
-        return el[0].replace("", "$") + el.slice(1);
+        //return el[0].replace("", "$") + el.slice(1);
+        return `$${el}`
       });
       const data = mapData.toString();
     };
