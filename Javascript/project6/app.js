@@ -1,13 +1,11 @@
 class Add {
   constructor(...words) {
     this.words = words;
-    this.print = function print() {
-      const mapData = words.map((el) => {
-        //return el[0].replace("", "$") + el.slice(1);
-        return `$${el}`
-      });
-      const data = mapData.toString();
-    };
+  }
+  print(){
+    this.words.unshift("");
+    this.words.push("");
+    console.log(this.words.join("$"));
   }
 }
 
