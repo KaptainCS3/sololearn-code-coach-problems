@@ -1,3 +1,10 @@
 #include<iostream>
 int main(){
+int criminals;
+    court <<"Enter number of criminals: " << endl;
+    cin >> criminals;
+    criminals > 10 ? court <<"Good Luck out there! " << endl; 
+    : crimals >= 5 && criminals < 10 ? cout <<"Help me Batman " <<endl; 
+    : cout <<"I got this! " <<endl;
+    return 0;
 }
