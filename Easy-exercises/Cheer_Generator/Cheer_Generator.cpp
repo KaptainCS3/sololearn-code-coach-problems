@@ -6,8 +6,7 @@ int main(){
     cin >> yard;
     (yard > 10) ? cout << "High Five";
               : (yard < 1) ? cout << "shh"
-                           : cout << "";
-        while(i <= yard){
+                           : while(i <= yard){
             printf("Ra!");
             i++;
         }
