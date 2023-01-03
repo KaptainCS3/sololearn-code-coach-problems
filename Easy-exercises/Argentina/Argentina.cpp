@@ -1,5 +1,5 @@
 #include<iostream>
-using namepace std;
+using namespace std;
 #define CENT_RATE 2
 int main(){
     int pesos, dollar, rate;
@@ -9,7 +9,7 @@ int main(){
     cin >> dollar;
    //convert dollar to pesos
     rate = (50 * dollar);
-    rate > pesos ? cout << "Pesos";
+    rate > pesos ? cout << "Pesos"
                  : cout << "Dollars";
     return 0;
 }
