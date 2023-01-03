@@ -11,5 +11,5 @@ int main(void){
     total = ceil(tax + res);
     cout << fixed;
     cout.precision(1);
-    cout <<"Total cost for project is : ", << total;
+    cout <<"Total cost for project is : " << total;
 }
