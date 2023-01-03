@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cmath>
+using namespace std;
 // done by Leonard Appelgryn(KAPTAINCS3)
 int main(){
     int houses, out_put;
