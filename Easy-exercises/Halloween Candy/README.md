@@ -2,4 +2,4 @@
 **TASK**
 <p>Given the input of the total number of houses that you visited, what is the percentage chance that one random item pulled from your bag is a dollar bill?</p>
 **Input Format**
-<p>An integer (>=3) representing the total number of houses thay you visited.</p>
+<p>An integer (>=3) representing the total number of houses that you visited.</p>
