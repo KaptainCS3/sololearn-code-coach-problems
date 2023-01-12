@@ -4,7 +4,6 @@
 <h3>Input Format:</h3>
 <p>A string that represent the noises that you hear with a space between them.</p>
 <h3>Output Format:</h3>
-<p>A string that includes each animal that you hear with a space after each one. (animals can repeat)</p>
 <h3>Sample Input:</h3>
 <p>Rawr Chirp Ssss</p>
 <h3>Sample Output:</h3>
